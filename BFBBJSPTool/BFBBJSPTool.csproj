@@ -32,8 +32,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="RenderWareBSP">
-      <HintPath>..\..\RenderWareBSP\RenderWareBSP\bin\Debug\RenderWareBSP.dll</HintPath>
+    <Reference Include="RenderWareFile">
+      <HintPath>..\..\RenderWareBSP\RenderWareFile\bin\Debug\RenderWareFile.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
